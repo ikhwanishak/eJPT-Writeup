@@ -128,4 +128,4 @@ Assessment Methodologies	83%
 Host & Network Pentesting	70%
 Status	✅ Passed
 ---
-Next goal: TryHackMe / HackTheBox practice → OSCP
+What's next ??
